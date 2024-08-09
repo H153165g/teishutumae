@@ -20,7 +20,7 @@ int scene;
 
 boolean isPlaying = false;
 
-int func; //これ何？
+int func; 
 
 void setup() {
   size(800, 600);

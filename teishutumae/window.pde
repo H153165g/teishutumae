@@ -178,8 +178,8 @@ public class Window {
 
     fill(255);
     textSize(16);
-    text("Score: " + score, 10, 20);
-    text("Mistakes: " + mistakes, 10, 40);
+    text("Score: " + score, 50, 20);
+    text("Mistakes: " + mistakes, 50, 40);
   }
   
 
